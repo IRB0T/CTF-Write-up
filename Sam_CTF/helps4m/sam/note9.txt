@@ -1,0 +1,18 @@
+Have you ever watched web series named "Person Of Interest"
+
+Okay ! if you didnt then watch it. It is a amazing series
+
+its time to check your OSINT skills :
+
+Password of the zip file is 
+
+"In Person Of interest what is the real name of the harold finch"
+
+
+**important**
+1. password is case sensitive 
+2. dont use space in between his real name 
+
+for example : real name:- Sami Abdul
+
+              password for zip:- SamiAbdul
